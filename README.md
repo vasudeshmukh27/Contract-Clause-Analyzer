@@ -445,17 +445,6 @@ GROQ_API_KEY=your_groq_key
 EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
 ```
 
----
-
-## 🔒 Security Notes
-
-- ⚠️ Never commit `.env` file to Git
-- ⚠️ Use strong PostgreSQL passwords
-- ⚠️ Rotate Groq API keys regularly
-- ⚠️ Store PDFs in secure location
-- ⚠️ Audit who has database access
-
----
 
 ## 📞 Support & Contributing
 
@@ -470,19 +459,6 @@ git checkout -b feature/amazing-feature
 git commit -m "Add amazing feature"
 git push origin feature/amazing-feature
 ```
-
----
-
-## 🎉 What's Next?
-
-- [ ] Multi-contract comparison matrix
-- [ ] Risk scoring system
-- [ ] Custom clause templates
-- [ ] REST API endpoints
-- [ ] Batch processing UI
-- [ ] Excel/PDF export
-- [ ] Contract versioning
-- [ ] Team collaboration
 
 ---
 
@@ -502,6 +478,5 @@ MIT License - See LICENSE file for details
 
 ---
 
-**Built with ❤️ for intelligent contract analysis**
 
 *Last Updated: October 29, 2025*
