@@ -1,0 +1,11 @@
+psycopg2-binary
+pgvector
+sentence-transformers
+torch
+unstructured[pdf]
+python-docx
+python-dotenv
+groq
+streamlit
+numpy
+pandas
